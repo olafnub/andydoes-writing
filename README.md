@@ -3,7 +3,7 @@
 ### Background
 **(A)** Currently a super-senior @ the university of minnesota. I've been wanting to share all my advice and tips for the upcoming generation of CS majors, as well as to those still going through the major.
 
-**(B)** I think there's a lot of potential for CS students @ UMN, as they are put through the ringer with tough labs and projects, but we're just not getting as much big tech internships compared to other midwest schools. And so here's a compiled writing of my thoughts to help broaden the view of current computer science majors reading or watching. _Obviously, this is open for anyone who's willing to read it no matter where you are in the world._
+**(B)** I think there's a lot of potential for CS students @ UMN, as we're put through the ringer with ongoing labs and projects, but I realized we're just not getting as much big tech internships compared to other midwest schools. And so here's a compiled writing of my thoughts to help broaden the view of current computer science majors reading or watching. Of course, this is open for anyone who's willing to read it no matter where you are in the world / background._
 
 **(C)** I do want to preface that most my advice will be for students who aren't unsure what their next step is. Everyone has a different experience, and many succeed without following the advice that I'm going to give. The reason I want to share my experience is to help those who may feel a bit lost in the CS realm and aren't sure what to do next.
 
