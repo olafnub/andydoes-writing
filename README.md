@@ -7,14 +7,14 @@
 
 **(C)** I do want to preface that most my advice will be for students who aren't unsure what their next step is. Everyone has a different experience, and many succeed without following the advice that I'm going to give. The reason I want to share my experience is to help those who may feel a bit lost in the CS realm and aren't sure what to do next.
 
-### General Advice -- Foundation
-1. [Learning web development](https://www.theodinproject.com/)
-2. [Getting better at data structures and algorithms (DSA)](https://neetcode.io/practice?subpage=practice)
-3. [Take CodePath TIP or watch their youtube advice](https://www.codepath.org/courses/tech-interview-prep)
+### General Advice -- Foundation in chronological order
+1. [Learning web development](https://www.theodinproject.com/) (feel free to stop once you can build your own project from scratch)
+2. [Take CodePath Technical Interview Prep course (TIP) or watch their youtube advice](https://www.codepath.org/courses/tech-interview-prep) (start looking into #3 after you sign-up)
+3. [Getting better at data structures and algorithms (DSA)](https://neetcode.io/practice?subpage=practice) (I would almost overlap this and codepath together. For example I would start neetcoding then then sign up for #2 then continue neetcoding until it's TIP time)
 
 These are seriously the only two things you need for getting into software engineering. **Taking action is when it truly counts**, and if you struggle with consistency, break it down and don't overload yourself. For example, either do 1 neetcode a day or only 1 lesson of the odin project a day. No less, and no more. When you're on a consistent streak of 2-3 weeks and feel like you're ready to up it then you can increase the amount you do.
 
-**Please read paragraph (C) as I believe everyone learns differently.**
+**Please read paragraph (C), since I believe everyone learns differently.**
 
 Build the foundation then add the toppings to improve your skills with these resources: 
 - [Grokking the Coding Interview](https://www.designgurus.io/course/grokking-the-coding-interview)
