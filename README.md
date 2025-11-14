@@ -12,7 +12,7 @@
 2. [Take CodePath Technical Interview Prep course (TIP) or watch their youtube advice](https://www.codepath.org/courses/tech-interview-prep) (start looking into #3 after you sign-up)
 3. [Getting better at data structures and algorithms (DSA)](https://neetcode.io/practice?subpage=practice) (I would almost overlap this and codepath together. For example I would start neetcoding then then sign up for #2 then continue neetcoding until it's TIP time)
 
-These are seriously the only three things you need for getting into software engineering. And to be fair, you can even skip _the odin project_ if full-stack development (web development) or project making is not on the forefront of your mind. **Taking action is when it truly counts**, and if you struggle with consistency, break it down and don't overload yourself. For example, either do 1 neetcode a day or only 1 lesson of the odin project a day. No less, and no more. When you're on a consistent streak of 2-3 weeks and feel like you're ready to up it then you can increase the amount you do.
+These are seriously the only three things you need for getting into software engineering. And to be fair, you can even skip _the odin project_ if full-stack development (web development) or project making is not on the forefront of your mind (check out quote #1). **Taking action is when it truly counts**, and if you struggle with consistency, break it down and don't overload yourself. For example, either do 1 neetcode a day or only 1 lesson of the odin project a day. No less, and no more. When you're on a consistent streak of 2-3 weeks and feel like you're ready to up it then you can increase the amount you do.
 
 **Please read paragraph (C), since I believe everyone learns differently.**
 
@@ -23,3 +23,6 @@ Build the foundation then add the toppings to improve your skills with these res
 
 ### My Writing/Watch Series
 [3 things i would do as a freshman studying computer science](https://medium.com/@li002488/3-things-i-would-do-as-a-freshman-studying-computer-science-93452d7a525c)
+
+### Quotes
+1. "Projects are typically good to have because it lets you put the tech on your resume, and more importantly gives you talking points during an interview. It’s also one thing to have a project, but if you can’t interview well and answer technical questions then it won’t matter. Anyone can build a project to do something given enough time and resources. If you can’t get past resume screenings then work on your resume. If you get in front of people but fail to move on, then focus on your technical interview skills. projects help you talk about stuff but won’t make or break getting hired." [Reddit Post](https://www.reddit.com/r/cscareerquestions/comments/1at7y6m/comment/kqvdbjp/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
