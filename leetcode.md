@@ -5,7 +5,7 @@ me prepare a lot when it actually came time to interview. **Some ideas to think 
 
 1. Create a small group where you and your friends can hold each other accountable for doing leetcode
 2. Once you've created the group, go down either [Leetcode 150](https://leetcode.com/studyplan/top-interview-150/) or [Neetcode 150](https://neetcode.io/practice)
-3. Everyday have 1 person post "problem of the day." The problem can be solved asyncronously, but by the end of the day, each person in the group should have reacted
+3. Everyday have 1 person post "problem of the day." The problem can be solved asynchronously, but by the end of the day, each person in the group should have reacted
 to the message, and have also posted their solution to the problem. (Looking at the solution through Neetcode or Leetcode answers is actually advised).
 4. Repeat every day until you all get jobs. It's okay to miss 1 day if something came up, but it's not okay to miss 2 days in a row.
 
