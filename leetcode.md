@@ -19,9 +19,9 @@ school, life, & etc._
 ## Resource on how to get better at leetcode
 https://www.reddit.com/r/cscareerquestions/comments/sgktuv/the_definitive_way_on_how_to_leetcode_properly/
 
-From another reddit post I found (picture below): TL;DR: Spend ~10 minutes on each problem, then look at the solution and try to understand it. The reason why is because 
-it's like trying to solve a math problem without knowing the equation. You can add and subtract but if the solution is to multiply, then it's going to take a long time
-until you find your solution. Therefore, _it's better to_ understand the solution from the answer key than spending hours trying to solve it. **BUT** everyone learns differently, we're all different, and so this study method will work for some, but will not work for all. But feel free to try it out. Note: With this method, you should record the problem and look back at them later and try solving it without the solution. 
+From another reddit post I found (picture below): TL;DR: Spend ~10 minutes on each problem, then look at the solution and try to understand it. The reason why is because Leetcode has problems that sometimes require the person to know the algorithm before actually solving it.
+For example, It's like trying to solve a math problem without knowing the equation. You can add and subtract but if the solution is to multiply, then it's going to take a long time
+until you find your solution. Therefore, _it's better to_ understand the solution from the answer key than spending hours trying to solve it. **BUT** everyone learns differently, we're all different, and so this study method will work for some, but will not work for all. Though, feel free to still try it out. Note: With this method, you should record the problem and look back at them later and try solving it without looking at the solution. Neetcode should have good advice on how to do leetcode, search it up on youtube. 
 
 <img width="776" height="568" alt="image" src="https://github.com/user-attachments/assets/4b879a62-fea9-4d06-b5cc-0f1656f9391e" />
 
