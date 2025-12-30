@@ -7,10 +7,19 @@ me prepare a lot when it actually came time to interview. **Some ideas to think 
 2. Once you've created the group, go down either [Leetcode 150](https://leetcode.com/studyplan/top-interview-150/) or [Neetcode 150](https://neetcode.io/practice)
 3. Everyday have 1 person post "problem of the day." The problem can be solved asynchronously, but by the end of the day, each person in the group should have reacted
 to the message, and have also posted their solution to the problem. (Looking at the solution through Neetcode or Leetcode answers is actually advised).
-4. Repeat every day until you all get jobs. It's okay to miss 1 day if something came up, but it's not okay to miss 2 days in a row.
 
+<details>
+  <summary><b>Use discord</b></summary>
+------------------------------------------
+  <br>
 For me, I like using discord because they have their "hide / spoil message" feature so anyone can view the answer throughout the day when they're ready to do so. 
-Don't memorize each other's solutions if their code is different from yours, focus on understanding why they did it the way they did.
+Don't memorize each other's solutions if their code is different from yours, focus on understanding why they did it.
+<br>
+  ------------------------------------------
+</details>
+
+4. Repeat every day until you all get jobs. It's okay to miss 1 day if something came up, but it's not okay to miss 2 days in a row.
+5. **implement this habit into your daily routine**. For me, I decided to do my leetcode problem(s) the moment my classes were done for the day. _(I treated it like another class I had to go to after my final official class, I went to the comp-sci lab & did my problems there. Or after class would end, I would walk to my study spot & do my problems there)_ 
 
 _It's important to just do 1 a day, nothing more, and nothing less; Only 1 leetcode problem a day. If the group is consistent with it after 2 or 3 weeks 
 then add 1 more problem to each day. Ex: After 2 weeks, your group can start doing 2 problems a day and on week 4, 3 problems a day. Cap it so it balances out with 
