@@ -53,4 +53,11 @@ When it comes to practicing Leetcode, the goal isn't to solve every problem with
 Instead, it's to learn and understand which and what algorithm was used to solve the given problem and why. 
 Therefore, the best way to learn _(leetcoding)_ is to watch/read from other people's solution.
 
+I referenced this back in my other writing: [here](https://github.com/olafnub/andydoes-writing/blob/main/leetcode.md#resource-on-how-to-get-better-at-leetcode)
+
+### If there's anything to takeaway from this article, it's to:
+1. Go through neetcode 75
+2. Skim through readings, look at inputs & outputs, & reread slowly
+3. **Pseudocode your solution! _& go through test cases_**
+4. Write the code in python
 
