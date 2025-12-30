@@ -38,5 +38,5 @@ General advice and the main advice to be 100% honest is to do leetcode. For big 
 2. Do Leetcode with a group of friends, to hold e/o accountable
 3. Share your solutions with each other by the end of the day
 4. It's okay to miss 1 day but never 2!
-5. Read #Resource-on-how-to-get-better-at-leetcode
+5. Read #Resource-on-how-to-get-better-at-leetcode or [how I leetcode / approach problems](https://github.com/olafnub/andydoes-writing/blob/main/leetcoding.md)
 
