@@ -63,3 +63,9 @@ I referenced this back in my other writing: [here](https://github.com/olafnub/an
 3. **Pseudocode your solution! _& go through test cases_**
 4. Write the code in python
 
+### Resources
+We all learn differently, but this is my experience on how I found myself enjoying leetcode a bit more. Here's other people's writing / experieince:
+- https://dev.to/idsulik/empowering-newbies-building-confidence-through-600-leetcode-solutions-a-guide-for-beginners-3960
+- https://medium.com/@austin-starks/heres-the-secret-to-getting-good-at-leetcode-that-nobody-ever-told-you-43a6d4852a44
+
+
