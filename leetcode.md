@@ -33,3 +33,10 @@ General advice and the main advice to be 100% honest is to do leetcode. For big 
 <img width="516" height="396" alt="image" src="https://github.com/user-attachments/assets/264deb38-12a8-4e95-928f-ed0c21d6f4a9" />
 <img width="286" height="82" alt="image" src="https://github.com/user-attachments/assets/22e7b776-a697-4a15-8ec7-1ac7239ee917" />
 
+## If there's anything to takeaway from this article, it's to:
+1. If you struggle with consistency then Leetcode 1 problem a day!
+2. Do Leetcode with a group of friends, to hold e/o accountable
+3. Share your solutions with each other by the end of the day
+4. It's okay to miss 1 day but never 2!
+5. Read #Resource-on-how-to-get-better-at-leetcode
+
