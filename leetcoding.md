@@ -1,3 +1,5 @@
+# Step by step on how I leetcode / approach problems
+
 Tbh the way I do it is to just Leetcode and learn DSA along the way. Here's how I would go about it and I think you should too
 
 1. Go on [Neetcode](https://neetcode.io)
