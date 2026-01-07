@@ -6,7 +6,9 @@ Just go through the [Odin Project](https://www.theodinproject.com/).  Even thoug
 2. #### learn how to make lower system applications or hardware:
 Then learning Python or C++ would be your go to.
 
-3. ## just learn programming
+3. #### just learn programming
 Then don't rely too much on code-a-long tutorials / relying on AI to do all your work. Short-term it'll get a project done or feature done but you will not remember most of it after you're done with the project. Unless you quiz yourself during to help you understand why somethings work the way they do.
 
+4. #### Problem solving & thinking about getting a job
+THen leetcode & learn CS fundamentals, many universities these days publish their courses online for free. Harvard's CS50 Introduction to Computer Science is a great 12-week course.
 
